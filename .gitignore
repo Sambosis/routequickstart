@@ -1,0 +1,7 @@
+.vscode
+.flake8
+tmp
+submissions
+.idea/
+
+__pycache__/
